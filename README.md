@@ -32,7 +32,7 @@ A wireless adapter recognized by the system
 Installation
 Replace the GitHub URL below with your real repository URL after publishing:
 
-git clone https://github.com/<your-username>/wifiguard-auditor.git
+git clone https://github.com/anihack06/WIFI-Gard-.git
 cd wifiguard-auditor
 Termux Installation
 Install required packages:
@@ -45,7 +45,7 @@ Install the Termux:API app from F-Droid or another trusted source
 Grant Termux location permission in Android settings
 Clone and install:
 
-git clone 
+git clone https://github.com/anihack06/WIFI-Gard-.git
 cd wifiguard-auditor
 pip install .
 Run:
@@ -58,7 +58,7 @@ sudo apt update
 sudo apt install -y git python3 python3-pip python3-venv network-manager wireless-tools iw
 Clone the repository:
 
-git clone https://github.com/<your-username>/wifiguard-auditor.git
+git clone https://github.com/anihack06/WIFI-Gard-.git
 cd wifiguard-auditor
 Optional virtual environment:
 
@@ -80,7 +80,7 @@ sudo apt update
 sudo apt install -y git python3 python3-pip python3-venv network-manager wireless-tools iw
 Clone the repository:
 
-git clone https://github.com/<your-username>/wifiguard-auditor.git
+git clone https://github.com/anihack06/WIFI-Gard-.git
 cd wifiguard-auditor
 Optional virtual environment:
 
