@@ -1,0 +1,2 @@
+[console_scripts]
+wifiguard = wifiguard_auditor.cli:main
